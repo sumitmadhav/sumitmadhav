@@ -628,7 +628,7 @@ _Mumbai, India • May 2013_
 <img src="https://img.shields.io/badge/Status-Available_for_New_Opportunities-brightgreen?style=for-the-badge&labelColor=2C3E50" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Experience-8+_Years_Proven_Track_Record-blue?style=for-the-badge&labelColor=2C3E50" />
+<img src="https://img.shields.io/badge/Portfolio-Actively_Updated-blue?style=for-the-badge&labelColor=2C3E50" />
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Specialization-Financial_Services_Analytics-purple?style=for-the-badge&labelColor=2C3E50" />
@@ -643,6 +643,12 @@ _Mumbai, India • May 2013_
 
 <br/>
 
-**📊 Let's turn your data challenges into competitive advantages! Ready to collaborate? 🚀**
+**📈 Explore my active portfolio of financial analytics projects above! Each repository showcases real-world solutions for banking and financial services challenges. Ready to collaborate on your next data-driven initiative? 🚀**
+
+**🔗 Featured Projects**: 
+• [Banking Data Insights](https://github.com/sumitmadhav/financial-insights-in-banking-data-using-powerbi) 
+• [Financial Database Architecture](https://github.com/sumitmadhav/finances-database) 
+• [Customer Segmentation Analytics](https://github.com/sumitmadhav/data-analytics-customer-segmentation) 
+• [Advanced Excel Modeling](https://github.com/sumitmadhav/excel-portfolio-project)
 
 </div>
