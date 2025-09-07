@@ -504,10 +504,10 @@ _Tampa, FL • Dec 2015_
 
 **📚 Specialized Coursework**
 
-- Advanced Database Management
-- Business Intelligence & Analytics
-- Information Systems Strategy
-- Data Warehousing & Mining
+- Information Technology Infrastructure
+- Project Management
+- Information Systems Fundamentals
+- Information Design and Usability
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -521,10 +521,10 @@ _Mumbai, India • May 2013_
 
 **📚 Core Foundation**
 
-- Computer Science Fundamentals
-- Database Systems & Design
-- Software Engineering Principles
-- Mathematical Foundations
+- Data Warehousing and Mining
+- Advance Database Management Systems
+- Image Processing & Digital Signal
+- Engineering Mathematics
 
 </td>
 </tr>
