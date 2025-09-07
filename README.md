@@ -83,7 +83,7 @@ Transforming complex financial data into strategic insights that drive business 
 ### 📊 **ANALYTICS EXPERTISE**
 
 ```python
-class SeniorDataAnalyst implements DataDrivenLeader {
+class DataAnalyst implements DataDrivenLeader {
   private expertise: AnalyticsStack = {
     analytics: ["Statistical Modeling", "A/B Testing", "Forecasting", "KPI Design"],
     programming: ["SQL", "Python", "R", "DAX"],
