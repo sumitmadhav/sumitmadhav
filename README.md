@@ -19,7 +19,7 @@
 ```bash
 ┌─[sumit@data-insights-lab]─[~/analytics/financial-systems]
 └──╼ $ whoami
-Data Analyst | 8+ Years | Financial Services Specialist | Business Intelligence Expert
+Data Analyst | 8+ Years | Business Intelligence Expert | Financial Services Specialist
 
 ┌─[sumit@data-insights-lab]─[~/achievements]
 └──╼ $ ls -la
