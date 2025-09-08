@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a90e2,100:357abd&height=300&section=header&text=SUMIT%20MADHAV&fontSize=70&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20DATA%20ANALYST%20◉%20FINANCIAL%20SERVICES%20ANALYST%20◉%20BUSINESS%20INTELLIGENCE%20◉&descSize=18&descAlign=50&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a90e2,100:357abd&height=300&section=header&text=SUMIT%20MADHAV&fontSize=70&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20DATA%20ANALYST%20◉%20BUSINESS%20INTELLIGENCE%20◉%20FINANCIAL%20ANALYST%20◉&descSize=18&descAlign=50&descAlignY=75" />
 
 <br/>
 
